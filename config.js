@@ -6,7 +6,7 @@ window.BLOOM_CONFIG = {
   rescueCode: "0000",             // 4 digits: unlocks the app if she forgets her PIN (tell only her!)
 
   // 🎂 Welcome page (shown the first time she opens the app)
-  birthdayTitle: "Happy Birthday, Sis! 🎂",
+  birthdayTitle: "Happy Birthday, Mouna! 🎂",
   birthdayMessage: "24 looks amazing on you. I made this little garden just for you: a place for your dreams, your proudest moments and the days you need a reminder of how awesome you are. Nothing here is homework and nothing here is a score. Just you, growing at your own pace. Love you loads. 💛",
   birthdayButton: "Open my gift 🎁",
 
